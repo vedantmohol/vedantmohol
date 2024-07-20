@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Vedant</h1>
-- 🔭 I’m currently working on **flex printing website project** with Branding Displays Company
+- 🔭 I’m currently working as a web development intern at Branding Displays, Signage Company
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
