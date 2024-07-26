@@ -66,7 +66,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=vedantmohol&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://streak-stats.demolab.com?user=vedantmohol&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vedantmohol.vedantmohol&left_color=black&right_color=blue&left_text=Profile%20Views"  />
 </div>
 
 ###
