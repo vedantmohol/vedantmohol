@@ -57,7 +57,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/vedant-mohol-a79613271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/vedant.1314"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="https://leetcode.com/vedantmohol"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"  /></a>
+  <a href="https://leetcode.com/vedantmohol"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="leetcode logo"  /></a>
 </div>
 
 ###
