@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working as a web development intern at Branding Displays, Signage Company</p>
+<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working on a blog website using MERN stack</p>
 
 ###
 
