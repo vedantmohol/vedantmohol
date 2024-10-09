@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working on a blog website using MERN stack</p>
+<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working on a blog website using MERN stack </p>
 
 ###
 
