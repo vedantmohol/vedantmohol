@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working on a Restaurant Management System website using MERN stack and taikwind CSS<br>MERN Stack Developer | Google Cloud | AWS Cloud Technology</p>
+<p align="left">-  🎓 Third Year Computer Student in Vishwakarma Institute of Technology, Pune<br>- 🔭 I’m currently working on a Restaurant Management System website using MERN stack and taikwind CSS<br>
+  - 📌MERN Stack Developer | Google Cloud | AWS Cloud Technology</p>
 
 ###
 
